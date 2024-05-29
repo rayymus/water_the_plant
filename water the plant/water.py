@@ -4,7 +4,7 @@ import pygame
 from setup import *
 
 
-cooldown = 0#20*60
+cooldown = 20*60
 
 
 class WateringCan(pygame.sprite.Sprite):
